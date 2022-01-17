@@ -1,0 +1,270 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,400;0,500;0,600;1,200;1,300;1,400;1,500;1,600&display=swap");
+
+.App {
+  font-family: "Jost", sans-serif;
+  text-align: center;
+  background: linear-gradient(220.55deg, #63c0c7 0%, #4b73ff 100%);
+  border-radius: 13px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+body {
+  margin: 4vw;
+  background: linear-gradient(40.55deg, #dde4ff 0%, #a7b7f3 100%);
+}
+
+.intro {
+  padding: 30px 130px 100px 130px;
+  font-size: 22px;
+  color: rgb(44, 34, 49);
+  font-weight: 500;
+  letter-spacing: 0.7;
+}
+.sticker {
+  border: none;
+  height: 125px;
+  margin: auto;
+}
+
+.top {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  color: rgb(64, 49, 73);
+  font-size: 2.72rem;
+  padding: 20px;
+}
+
+h2 {
+  color: rgb(73, 57, 83);
+  font-size: 2rem;
+  position: relative;
+  bottom: 28px;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  margin-left: 10.4vw;
+  margin-top: 30px;
+}
+
+.timeline {
+  border-radius: 5px;
+  height: 40vh;
+  width: 6px;
+  background-color: #bbbbbb;
+}
+hr {
+  margin: 0px 8.4%;
+}
+
+footer {
+  color: #f8f8f8;
+}
+
+.stub1 {
+  line-height: 300px;
+  font-size: 1.66rem;
+  background: linear-gradient(220.55deg, #9695dd 0%, #d079ee 100%);
+  width: 44vw;
+  height: 20vh;
+  margin: auto;
+  border-radius: 26px;
+  margin-bottom: 18px;
+}
+
+.stub1_scroll {
+  position: relative;
+  top: -60px;
+  color: rgb(223, 223, 223);
+  font-size: 1.46rem;
+}
+
+.stub1_title {
+  color: rgb(247, 247, 247);
+  position: relative;
+  top: -440px;
+  font-weight: 500;
+}
+
+.circle {
+  width: 40px;
+  height: 40px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  border-radius: 50%;
+  background-color: #e5e5e5;
+  position: relative;
+  left: -17.4px;
+  top: -3px;
+}
+
+.circleWrapper {
+  display: flex;
+  position: relative;
+  align-items: left;
+}
+
+.message {
+  position: relative;
+  min-width: 150px;
+  font-weight: 500;
+  margin-right: 10px;
+  font-size: 19px;
+  color: rgb(26, 26, 26);
+  top: -65px;
+  left: 20px;
+}
+
+img {
+  margin: 10px 450px 30px -1px;
+  border-radius: 10px;
+  border: 5px solid #a7b7f3;
+}
+
+.header {
+  display: flex;
+}
+
+@media screen and (max-width: 480px) {
+  .App {
+    font-family: "Jost", sans-serif;
+    text-align: center;
+    background: linear-gradient(220.55deg, #6bc9cf 0%, #4b73ff 100%);
+    border-radius: 16px;
+    padding-top: 4px;
+  }
+
+  .sticker {
+    display: none;
+  }
+
+  .intro {
+    padding: 0px 26px 50px 26px;
+    font-size: 15.5px;
+    color: rgb(51, 38, 58);
+    font-weight: 400;
+  }
+
+  body {
+    margin: 7vw;
+    background: linear-gradient(40.55deg, #dde4ff 0%, #a7b7f3 100%);
+  }
+
+  h1 {
+    color: rgb(64, 49, 73);
+    font-size: 1.4rem;
+    padding: 20px;
+  }
+
+  h2 {
+    color: rgb(73, 57, 83);
+    font-size: 1.1rem;
+    position: relative;
+    bottom: 56px;
+    margin: 30px 20px auto 20px;
+  }
+
+  .hide {
+    display: none;
+  }
+
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+    margin-left: 11vw;
+    position: relative;
+    bottom: 50px;
+  }
+
+  .timeline {
+    border-radius: 5px;
+    height: 30vh;
+    width: 5px;
+    background-color: #bbbbbb;
+  }
+
+  hr {
+    position: relative;
+    bottom: 46px;
+  }
+
+  .stub1 {
+    font-size: 1rem;
+    background: linear-gradient(220.55deg, #9695dd 0%, #d079ee 100%);
+    width: 50vw;
+    height: 12vh;
+    margin: auto;
+    border-radius: 23px;
+    margin-bottom: 18px;
+    position: relative;
+    bottom: 51px;
+  }
+
+  .stub1_scroll {
+    font-size: 1rem;
+    position: relative;
+    top: -96px;
+    color: rgb(223, 223, 223);
+  }
+
+  .stub1_title {
+    color: rgb(247, 247, 247);
+    position: relative;
+    top: -440px;
+    font-weight: 500;
+  }
+
+  .circle {
+    width: 30px;
+    height: 30px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border-radius: 50%;
+    background-color: #e5e5e5;
+    position: relative;
+    left: -11.8px;
+    top: -3px;
+  }
+
+  .circleWrapper {
+    display: flex;
+    position: relative;
+    align-items: left;
+  }
+
+  .message {
+    position: absolute;
+    min-width: 150px;
+    font-weight: 500;
+    margin-right: 10px;
+    font-size: 17px;
+    color: rgb(26, 26, 26);
+    top: -108px;
+    left: 20px;
+  }
+
+  img {
+    margin: 20px 10px 30px -6px;
+    border-radius: 10px;
+    border: 5px solid #a7b7f3;
+  }
+
+  .header {
+    display: flex;
+  }
+
+  footer {
+    font-size: 13px;
+    padding: 0px 20px;
+  }
+}
