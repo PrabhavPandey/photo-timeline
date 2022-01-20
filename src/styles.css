@@ -133,7 +133,10 @@ img {
   display: flex;
 }
 
-@media screen and (max-width: 1190px) {
+@media screen and (max-width: 1180px) {
+  .h1 {
+    font-size: 1.1rem;
+  }
   .sticker {
     display: none;
   }

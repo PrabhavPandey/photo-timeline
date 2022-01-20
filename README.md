@@ -1,7 +1,8 @@
 # 💫Scrollable Photo Timeline
 
 **_A clean, responsive picture based timeline template_**
-Note: Made with reference to the iPhone 12 and 14" laptop breakpoints
+<br />
+_Note: Made with reference to the iPhone 12 and 14" laptop breakpoints_
 
 <hr />
 
@@ -10,6 +11,7 @@ Note: Made with reference to the iPhone 12 and 14" laptop breakpoints
 <p  align="left"> <a  href="https://www.w3schools.com/REACT/react_intro.asp"  target="_blank"> <img  src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png"  alt="react"  width="120"  height="40"/> </a> <a  href="https://www.w3schools.com/REACT/react_intro.asp"  target="_blank"> <img  src="https://i.postimg.cc/wMVTqcmX/css.png"  alt="scss" width="50px"/> </a> </p>
 
 Confetti Generator: `confetti-js`
+Dynamic Timeline Animation: `react-timeline-animation`
 
 # 💻Usage and Local Setup
 
