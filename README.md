@@ -20,11 +20,11 @@ Dynamic Timeline Animation: `react-timeline-animation`
 2. Run the command `npm install` or `yarn install` to download all the dependencies
 3. To run the project, run `npm start` or `yarn start`
 4. You should see the project running on `localhost:3000`
-5. To replace the website's title (currently "Happy Birthday"), head over to `index.html` inside the `public` folder and navigate to **line 25**
+5. To replace the website's title (currently "Happy Birthday!"), head over to `index.html` inside the `public` folder and navigate to **line 25**
 
 # 👀A Preview - Codesandbox
 
-Don't have npm installed or just to lazy to do the above? No worries!
+Don't have npm installed or just too lazy to do the above? No worries!
 
 To have a look at the code in your browser and also preview the output side by side, click **[here](https://jm8n5.csb.app/)**
 
