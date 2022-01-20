@@ -133,6 +133,12 @@ img {
   display: flex;
 }
 
+@media screen and (max-width: 1190px) {
+  .sticker {
+    display: none;
+  }
+}
+
 @media screen and (max-width: 480px) {
   .App {
     font-family: "Jost", sans-serif;
