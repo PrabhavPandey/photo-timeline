@@ -1,4 +1,4 @@
-# Scrollable Photo Timeline
+# 💫Scrollable Photo Timeline
 
 **_A clean, responsive picture based timeline template_**
 Note: Made with reference to the iPhone 12 and 14" laptop breakpoints
@@ -22,6 +22,8 @@ Confetti Generator: `confetti-js`
 
 Don't have npm installed or just to lazy to do the above? No worries!
 To have a look at the code in your browser and also preview the output side by side, click **[here](https://jm8n5.csb.app/)**
+
+<hr />
 
 # 😄Contact Me
 
