@@ -11,6 +11,7 @@ _Note: Made with reference to the iPhone 12 and 14" laptop breakpoints_
 <p  align="left"> <a  href="https://www.w3schools.com/REACT/react_intro.asp"  target="_blank"> <img  src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png"  alt="react"  width="120"  height="40"/> </a> <a  href="https://www.w3schools.com/REACT/react_intro.asp"  target="_blank"> <img  src="https://i.postimg.cc/wMVTqcmX/css.png"  alt="scss" width="50px"/> </a> </p>
 
 Confetti Generator: `confetti-js`
+
 Dynamic Timeline Animation: `react-timeline-animation`
 
 # 💻Usage and Local Setup
@@ -24,8 +25,6 @@ Dynamic Timeline Animation: `react-timeline-animation`
 # 👀A Preview - Codesandbox
 
 Don't have npm installed or just to lazy to do the above? No worries!
-
-<br />
 
 To have a look at the code in your browser and also preview the output side by side, click **[here](https://jm8n5.csb.app/)**
 
