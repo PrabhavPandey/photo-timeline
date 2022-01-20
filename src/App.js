@@ -91,7 +91,7 @@ const Timeline = ({ setObserver, callback }) => {
         </div>
         <div className="message">{message1}</div>
       </div>
-      <img src="https://i.postimg.cc/5yRk9fZk/maxresdefault.jpg"></img>
+      <img src="https://i.postimg.cc/6qyygKCn/pak.jpg"></img>
 
       <div id="timeline2" ref={timeline2} className="timeline" />
       <div className="circleWrapper">
@@ -100,7 +100,7 @@ const Timeline = ({ setObserver, callback }) => {
         </div>
         <div className="message">{message2}</div>
       </div>
-      <img src="https://i.postimg.cc/5yRk9fZk/maxresdefault.jpg"></img>
+      <img src="https://i.postimg.cc/3xPWqzwD/84b8268bfee7ce19d942eb292ef256a1.jpg"></img>
 
       <div id="timeline3" ref={timeline3} className="timeline" />
       <div className="circleWrapper">
@@ -109,7 +109,7 @@ const Timeline = ({ setObserver, callback }) => {
         </div>
         <div className="message">{message3}</div>
       </div>
-      <img src="https://i.postimg.cc/5yRk9fZk/maxresdefault.jpg"></img>
+      <img src="https://i.postimg.cc/8543FQJF/1rzy4a.jpg"></img>
 
       <div id="timeline4" ref={timeline4} className="timeline" />
       <div className="circleWrapper">
@@ -118,7 +118,7 @@ const Timeline = ({ setObserver, callback }) => {
         </div>
         <div className="message">{message4}</div>
       </div>
-      <img src="https://i.postimg.cc/5yRk9fZk/maxresdefault.jpg"></img>
+      <img src="https://i.postimg.cc/XvfHBSGf/kewl.jpg"></img>
 
       <div id="timeline5" ref={timeline5} className="timeline" />
       <div className="circleWrapper">
@@ -127,7 +127,7 @@ const Timeline = ({ setObserver, callback }) => {
         </div>
         <div className="message">{message5}</div>
       </div>
-      <img src="https://i.postimg.cc/5yRk9fZk/maxresdefault.jpg"></img>
+      <img src="https://i.postimg.cc/KYYWwc00/kid.png"></img>
 
       <div id="timeline6" ref={timeline6} className="timeline" />
       <div className="circleWrapper">
@@ -136,7 +136,7 @@ const Timeline = ({ setObserver, callback }) => {
         </div>
         <div className="message">{message6}</div>
       </div>
-      <img src="https://i.postimg.cc/5yRk9fZk/maxresdefault.jpg"></img>
+      <img src="https://i.postimg.cc/3RTK2v8k/cat.png"></img>
     </div>
   );
 };
